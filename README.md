@@ -26,8 +26,8 @@ Essa é uma aplicação para armazenar repositórios, que permite a criação, l
 Para as requisições de criação e alteração é necessário especificar os dados do repositório no formato JSON
 
     {
-    		"title": "Título do repositório",
-    		"url": "https://github.com/sethwololo/desafio-conceitos-nodejs",
-    		"techs": ["nodejs", "react"]
+      "title": "Título do repositório",
+      "url": "https://github.com/sethwololo/desafio-conceitos-nodejs",
+      "techs": ["nodejs", "react"]
     }
 
